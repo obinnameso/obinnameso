@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Obinna
 - 👀 I’m interested in Data Science and Machine Learning
-- 🌱 I’m currently learning Data Science using Python 
+- 🌱 I’m currently working on various projects 
 - 💞️ I’m looking to collaborate on interesting and challenging data science projects
 - 📫 How to reach me: obinnanmesoma@gmail.com
 
